@@ -1,11 +1,15 @@
 👩‍💻 Sobre Mim
 
-Olá! Meu nome é Izabella e sou técnica em Administração, atualmente trabalhando na Mercedes-Benz Cars & Vanz.
+Olá! Meu nome é Izabella. Sou **Técnica em Administração** e atualmente estou no **2º semestre de Ciência da Computação**, construindo minha transição da área administrativa para a tecnologia.
 
-Estou migrando para a área de tecnologia, com interesse especial em Dados, Inteligência Artificial e Automação.
+Minha trajetória profissional começou com um estágio na **Caixa Econômica Federal** e, atualmente, trabalho como **Jovem Aprendiz na área de Pós-Venda da Mercedes-Benz Cars & Vans**.
 
-No momento, estou aprendendo HTML e Python, e pretendo seguir explorando outras tecnologias conforme avanço nos estudos.
+Tenho interesse em **Dados, Inteligência Artificial, Automação e Desenvolvimento de Software**. No momento, estou estudando e desenvolvendo minha base em **Python, SQL, CSS e linguagem C**.
 
-Ainda não tenho projetos muito complexos, mas já tenho alguns disponíveis no meu GitHub — sinta-se à vontade para dar uma olhada nos repositórios fixados abaixo do meu perfil!
+Ainda estou no início da minha jornada na programação e não me considero profissional nessas tecnologias. Meu objetivo neste momento é **aprender, praticar e evoluir constantemente**.
 
-Sou movida pela vontade de aprender e construir uma nova trajetória profissional, unindo minha experiência administrativa com tecnologia.
+Por aqui, compartilho algumas **atividades, exercícios e projetos desenvolvidos durante a faculdade e meus estudos**, registrando minha evolução ao longo dessa jornada.
+
+🚀 Estou construindo, passo a passo, uma nova trajetória profissional unindo minha **experiência em Administração** com meus conhecimentos em **Tecnologia**.
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
