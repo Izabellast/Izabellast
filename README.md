@@ -46,7 +46,6 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
   <img src="https://img.shields.io/badge/Dados-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-D97757?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-2496ED?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Desenvolvimento_de_Software-3178C6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
