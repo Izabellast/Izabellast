@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Bem-vindo%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8e2de2&height=180&section=header&text=Bem-vindo%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ---
 
-🙋‍♀️ Sobre Mim
+### 🙋‍♀️ Sobre Mim
 
 Olá! Meu nome é Izabella. Sou **Técnica em Administração** e atualmente estou no **2º semestre de Ciência da Computação**, construindo minha transição da área administrativa para a tecnologia.
 
@@ -43,15 +43,15 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
 ### 🎯 Áreas de Interesse
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dados-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-D97757?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-2496ED?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dados-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-6a0dad?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-000000?style=for-the-badge&logo=zapier&logoColor=white" />
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8e2de2&height=100&section=footer" width="100%" />
 
 </div>
