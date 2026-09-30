@@ -54,10 +54,10 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ffb6d9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-d9a6ff?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-a78bfa?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-f9a8d4?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-c4b5fd?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-d9a6ff?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-a78bfa?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-f9a8d4?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-c4b5fd?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
